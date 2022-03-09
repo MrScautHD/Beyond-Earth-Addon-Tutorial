@@ -5,7 +5,7 @@
 ![grafik](https://user-images.githubusercontent.com/65916181/157483448-ebbd573e-8a81-40c3-9a62-0c746d4205db.png)
 
 # API #
-```grovy
+```groovy
 repositories {
     maven { url 'https://jitpack.io' }
 }
