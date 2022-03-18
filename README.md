@@ -1,4 +1,4 @@
-![grafik](https://user-images.githubusercontent.com/65916181/157483349-116daea1-f64c-4c97-8b70-1cbf009d3860.png)
+![grafik](https://cdn.discordapp.com/attachments/821002652376367114/954447800219877396/logo.png)
 
 # Beyond-Earth-Addon-Tutorial #
 
